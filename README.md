@@ -7,9 +7,10 @@ My First Hardware project VIBRIS PAD! I followed the tutorial for everything but
 This is my first time using Kicad. This used 12 MX Style Switches. I added some stuff that i wanted to because my granda is obsessed with god so i added name of god,godess.
 
 # CAD ASSEMBLED
+ NOTE - after the last review i added the 
+<img width="889" height="450" alt="image" src="https://github.com/user-attachments/assets/a56c3deb-9ed7-49ce-8c55-1e947e6f7e62" />
+<img width="397" height="445" alt="image" src="https://github.com/user-attachments/assets/cfa5a292-2d63-4635-8c89-0a2154db6a71" />
 
-<img width="552" height="463" alt="image" src="https://github.com/user-attachments/assets/2b85ff49-e7a5-43cf-8c5e-341ec47706f4" />
-<img width="462" height="502" alt="image" src="https://github.com/user-attachments/assets/e74d0938-217f-49c3-b944-ac325111fa83" />
 
 # KiCad Schematic
 
